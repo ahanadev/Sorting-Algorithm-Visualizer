@@ -15,7 +15,6 @@ Easily understand how sorting works through animations and step-by-step visualiz
   - Bubble Sort
   - Merge Sort
   - Quick Sort
-  - Heap Sort
 - Adjustable speed and array size
 - Step-by-step animations
 - Clean and interactive UI
@@ -27,11 +26,6 @@ Easily understand how sorting works through animations and step-by-step visualiz
 - **JavaScript (ES6+)** – logic for algorithms
 - **CSS** – styling and animations
 - **Vercel** – deployment
-
----
-
-## 📷 Preview
-(Add a screenshot or GIF of your app here – optional)
 
 ---
 
